@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yla:home|Door43 (yla)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yla|d43-yla repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yla/archive/master.zip|d43-yla.zip]]
+
+**Recent Changes**
+{{changes>ns = yla}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yla|Ethnologue data]]
+
